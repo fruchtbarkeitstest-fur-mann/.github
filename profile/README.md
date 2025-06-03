@@ -54,7 +54,7 @@
 </ul>
 <h2><span>Was sagen Ärzte über Fruchtbarkeitstests?</span></h2>
 <p><span>Ein Samentest untersucht unter anderem ph-Wert, Morphologie, Konzentration und Beweglichkeit. Fachärztlich empfohlene Labortests können zusätzlich Hinweise auf Infektionen oder genetische Ursachen liefern.</span></p>
-<p><span> <iframe title="YouTube video player" src="https://www.youtube.com/embed/q-CKGnfkqMA?si=SDxRTgS4lqq6wYOP" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></span></p>
+<p><span></span></p>
 <h2><span>Wie funktioniert ein Heimtest mit ExSeed?</span></h2>
 <ul data-spread="false">
 <li>
